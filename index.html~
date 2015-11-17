@@ -257,9 +257,9 @@
 			    <a href="http://www.nexpcb.com" target="_blank"><img src="http://cdn.shopify.com/s/files/1/0242/1749/t/7/assets/logo.png?5771833530818746218" alt="NXPCB" />
 			</a></div> 
 		</div>
-		<div class="col-lg-4 : text-center" style="margin-top: 30px;">
+		<div class="col-lg-4 : text-center" style="margin-top: 20px;">
 		    <div class="six columns offset-by-two">
-			   <a href="http://www.wuka.coffee" target="_blank"><img src="http://cdn.huodongxing.com/logo/org/201404/3121557520215/811617404081951.jpg" height="120" width="120"alt="wuka"></a>
+			   <a href="http://www.wuka.coffee" target="_blank"><img src="http://i12.tietuku.com/4a5932d043cbc705.png" height="120" width="120"alt="wuka"></a>
  		    </div>
 		                 
 	       </div>
@@ -275,27 +275,14 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <p class="mbr-contacts__text"p style="color:white" ><strong>空间地址</strong><br>
-			宁波高新区宁波众创空间三楼<br><br>
+			宁波高新区众创空间三楼<br><br>
 			<strong>联系方式</strong><br>
 			Email: douboy@nexmaker.com<br>
                     </div>
                    <div class="col-lg-3 col-md-6 text-center" style= "color:white"><strong>LINKS</strong></p><ul class="mbr-contacts__list"><li><a class="mbr-contacts__link text-gray" href="https:www.google.com">google</a></li><li><a class="mbr-contacts__link text-gray" href="https://www.google.com">google</a></li><li><a class="mbr-contacts__link text-gray" href="https://google.com">google</a></li></ul></div>
                 </div>
             </div>
-            <div class="mbr-contacts__column col-sm-4">
-                
-                <form action="http://mobirise.com/" method="post">
-                    
-                    
-                    <div class="form-group">
-                        <input type="email" class="form-control input-sm input-inverse" name="email" required="" placeholder="Email*">
-                    </div>
-                    
-                    <div class="form-group">
-                        <textarea class="form-control input-sm input-inverse" name="message" placeholder="Message" rows="4"></textarea>
-                    </div>
-                    <div class="mbr-buttons mbr-buttons--right btn-inverse"><button type="submit" class="mbr-buttons__btn btn btn-danger">CONTACT US</button></div>
-                </form>
+	    <div class="f_img"><img src="img/cr.png" width="221" height="207"  alt=""/></div>          
             </div>
         </div>
     </div>
