@@ -110,7 +110,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-share-alt wow bounceIn text-primary"></i>
+                        <i class="fa fa-4x fa-comments wow bounceIn text-primary"></i>
                         <h3>社区</h3>
                         <p class="text-muted">我们致力于宁波创客文化的发展，提供免费的场地让你安心创造</p>
                     </div>
@@ -150,11 +150,11 @@
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                    11/22/2015
-			   </div>
-                           <div class="project-name">
+			        </div>
+                               <div class="project-name">
                                 火遍全美的创业真人秀！
-			     </div>
-                            </div>
+			       </div>
+                           </div>
                         </div>
                     </a>
                 </div>
@@ -194,7 +194,7 @@
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                    11/12/2015
-			   </div>
+			        </div>
                                 <div class="project-name">
 				    Arduino工作坊
 				</div>
@@ -209,7 +209,7 @@
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
                                     10/28/2015
-			    </div>
+			        </div>
                                 <div class="project-name">
                                    CNB第一炮：新能源
                                 </div>
