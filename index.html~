@@ -47,7 +47,8 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">NexMaker</a>
+		<a class="navbar-brand page-scroll" href="#page-top"><img class="logo_imf"width="40px" height="40px" alt="" src="img/nexmakerlogo.png"></a>
+
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
